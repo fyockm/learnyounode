@@ -1,0 +1,29 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.1",
+  "description": "learn you the node.js for much win!",
+  "main": "ex1.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "moment": "^2.7.0",
+    "through2-map": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "learnyounode verify ex1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyockm/learnyounode.git"
+  },
+  "keywords": [
+    "learnyounode"
+  ],
+  "author": "Drew Fyock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyockm/learnyounode/issues"
+  },
+  "homepage": "https://github.com/fyockm/learnyounode",
+  "README": "Learn you the Node.JS for Much Win!"
+}
