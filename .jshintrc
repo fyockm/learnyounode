@@ -1,3 +1,4 @@
 {
-	"node": true
+  "indent": 2,
+  "node": true
 }
